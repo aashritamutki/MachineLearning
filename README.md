@@ -20,6 +20,7 @@ Get implementation of these algorithms in C++
 Functions :
 <br>
 <br>
+        
         void get_pre_values();
 
         void get_b0_b1();
