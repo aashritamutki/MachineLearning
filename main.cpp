@@ -18,7 +18,6 @@ int main() {
     cout<<demo_model_1.b0<<endl;
     cout<<demo_model_1.b1<<endl;
 
-
     vector <double> y_predicted = demo_model_1.predict(x);
 
     for(int i = 0; i < y_predicted.size(); i++)
