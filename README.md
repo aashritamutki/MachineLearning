@@ -8,7 +8,7 @@ This contains different machine learning algorithms.
 <br>
 Major focus on commonly used machine learning algorithms
 <br>
-Algorithms covered- Linear regression, Multiple Linear Regression,... etc.
+Algorithms covered- Linear regression, Multiple Linear Regression, Gradient_descent, ... etc.
 <br>
 Get implementation of these algorithms in C++
 <br>
